@@ -1,3 +1,4 @@
+import Navbar from "./component/Navbar"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-      <p className='text-red-500'>Hello Dev</p>
+      <Navbar/>
     </>
   )
 }
