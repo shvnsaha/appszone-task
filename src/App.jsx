@@ -1,4 +1,6 @@
+import About from "./component/About"
 import Banner from "./component/Banner"
+import Experience from "./component/Experience"
 import Navbar from "./component/Navbar"
 
 
@@ -9,6 +11,8 @@ function App() {
     <>
       <Navbar/>
       <Banner/>
+      <About/>
+      <Experience/>
     </>
   )
 }
