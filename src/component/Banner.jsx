@@ -24,7 +24,7 @@ const Banner = () => {
       <div className="mt-8 md:mt-[105px] md:-ml-14 text-center md:text-left">
         <h3 className="text-lg md:text-xl -ml-3">
           Hello! I am{" "}
-          <span className="text-[#7127BA] font-semibold">Ibrahim Momen</span>
+          <span className="text-[#7127BA] font-semibold">Ibrahim Memon</span>
         </h3>
         <div className="mt-6 md:mt-[68px]">
           <h3 className="text-lg md:text-xl underline">A Designer who</h3>
